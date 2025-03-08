@@ -6,5 +6,5 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tsukilc "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukilc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukilc) 
 
