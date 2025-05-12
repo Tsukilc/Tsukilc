@@ -16,6 +16,7 @@
 ![Go](https://img.shields.io/badge/Go-79d4fd?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![k8s](https://img.shields.io/badge/k8s-578FFF?style=for-the-badge&logo=kubernetes&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)   ![mcp](https://img.shields.io/badge/MCP-7886C7?style=for-the-badge&logo=chatbot&logoColor=white) ![cloud native](https://img.shields.io/badge/Cloud%20Native-blue?style=for-the-badge&logo=iCloud&logoColor=white)
 
 
