@@ -7,7 +7,7 @@
 
 #### AI & Full-Stack Developer
 
-📖 I’m currently a second-year student at Guangdong University of Technology.
+📖 I’m currently a third-year student at Guangdong University of Technology.
 
 🌱 I’m currently learning Java Backend and exploring microservices architecture.
 
