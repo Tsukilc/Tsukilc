@@ -11,6 +11,8 @@
 
 🌱 I’m currently learning Java Backend and exploring microservices architecture.
 
+🗄️ I’m researching the HugeGraph graph database, focusing on its architecture, authentication, and graph space features.
+
 🤖 I’m also diving into AI gateways like Higress, and learning about MCP and AI agents to enhance intelligent development workflows.
 
 ## My Interests
